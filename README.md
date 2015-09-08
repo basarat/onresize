@@ -4,9 +4,12 @@ An optimized window.resize function
 ```js
 var onresize = require('onresize');
 // start process
-onresize.on(function() {
+var {dispose} = onresize.on(function() {
     console.log('Resource conscious resize callback!')
 });
+
+// once done
+dispose();
 ```
 
 Also: 

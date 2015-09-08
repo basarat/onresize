@@ -1,0 +1,26 @@
+{
+  "name": "onresize",
+  "version": "1.0.0",
+  "description": "Resource concious window.resize",
+  "main": "src/onresize.js",
+  "typings": "src/onreize",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basarat/onresize.git"
+  },
+  "keywords": [
+    "Window",
+    "resize",
+    "requestAnimationFrame",
+    "TypeScript"
+  ],
+  "author": "basaratali@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basarat/onresize/issues"
+  },
+  "homepage": "https://github.com/basarat/onresize#readme"
+}
