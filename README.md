@@ -1,4 +1,4 @@
-# onresize
+# onresize 🌹
 An optimized window.resize function
 
 ```js
@@ -16,4 +16,4 @@ Also:
 * comes with TypeScript definitions built in
 * returns an object that has a `dispose` function to unhook the handler
 
-To learn more : https://developer.mozilla.org/en-US/docs/Web/Events/resize
+To learn more on why you would want to use this [checkout this article](https://developer.mozilla.org/en-US/docs/Web/Events/resize).
