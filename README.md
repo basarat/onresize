@@ -1,4 +1,7 @@
 # onresize 🌹
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/basarat/onresize.svg)](https://greenkeeper.io/)
+
 An optimized window.resize function
 
 ```js
